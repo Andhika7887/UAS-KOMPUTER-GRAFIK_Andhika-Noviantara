@@ -6,7 +6,7 @@ Muchlas Syahlanisyiam - 201011401978 - 06TPLE004
 ## Screenshot Aplikasi
 
 ### Home
-![001home](https://github.com/muchlass19/komputer-grafik-uas/assets/58159472/1ede3c88-732b-42ca-9ba6-ec71ccba2be2)
+![001home](static/images/home.jpg)
 
 ### Upload Image
 ![002upload_gambar](https://github.com/muchlass19/komputer-grafik-uas/assets/58159472/cbb6c3b6-70a7-4903-aa10-191c4344419e)
